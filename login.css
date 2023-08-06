@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.box {
+    background-color: darkgray;
+    width: 100px;
+    min-width: 100px;
+    min-height: 100px;
+    height: 400px;
+    padding: 300px;
+}
+
+.box p {
+    position:absolute;
+    top:10%; 
+    left: 37%; 
+    margin-left:0px; 
+    margin-right:0px;
+}
