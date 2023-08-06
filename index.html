@@ -1,44 +1,10 @@
-<!DOCTYPE html>
 <html>
-<head>
-  <title>Anmeldeseite</title>
-</head>
-<body>
-  <h1>Willkommen!</h1>
-  <h2>Registrieren</h2>
-  <form action="#" method="post" onsubmit="return validateForm()">
-    <!-- ... (Rest des Formulars wie zuvor) ... -->
-  </form>
+<title>Log In</title>
+<link rel="stylesheet" href="login.css">
 
-  <script>
-    async function validateUsername(username) {
-      try {
-        const response = await fetch('/validate-username', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({ username })
-        });
-        const data = await response.json();
-        return data.valid;
-      } catch (error) {
-        console.error(error);
-        return false;
-      }
-    }
-
-    async function validateForm() {
-      // ... (Rest der Validierung wie zuvor) ...
-
-      const validUsername = await validateUsername(usernameField.value.trim());
-      if (!validUsername) {
-        formError.textContent = "Der Nutzername existiert nicht.";
-        return false;
-      }
-
-      // ... (Weiterer Code zur Formular-Validierung) ...
-    }
-  </script>
+<body background="picture.png">
+    <div class="box">
+        <p>EINLOGGEN</p>
+    </div>
 </body>
 </html>
