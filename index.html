@@ -1,18 +1,65 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Login</title>
-  <link rel="stylesheet" href="index.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="eventitems.css">
+    <title>GM-Preise</title>
 </head>
 <body>
-  <div class="container">
-    <form class="login-form">
-      <input type="text" placeholder="Nutzername" required>
-      <input type="password" placeholder="Passwort" maxlength="20" minlength="6" required>
-      <button type="submit">Einloggen</button>
-    </form>
-    <p>Noch kein Account? <a href="register.html">Hier registrieren</a></p>
-  </div>
+    <div class="container">
+        <div class="background-image"></div>
+        <div class="article-list" id="articleList"></div>
+    </div>
+    <script>
+        // Lade die Daten aus der JSON-Datei
+        fetch('test/data.json')
+            .then(response => response.json())
+            .then(data => {
+                console.log('Data loaded:', data);
+                displayArticles(data);
+            })
+            .catch(error => console.error('Error loading data:', error));
+
+        function displayArticles(articles) {
+            const articleList = document.getElementById('articleList');
+
+            articles.forEach(article => {
+                const articleDiv = document.createElement('div');
+                articleDiv.classList.add('article');
+
+                const img = document.createElement('img');
+                img.src = `${article.image}.png`;
+                img.alt = 'Icon';
+                img.width = 16;
+                img.height = 16;
+                articleDiv.appendChild(img);
+
+                const nameParagraph = document.createElement('p');
+                nameParagraph.textContent = `Name: ${article.name}`;
+                articleDiv.appendChild(nameParagraph);
+
+                const lastPriceParagraph = document.createElement('p');
+                lastPriceParagraph.textContent = `Letzter Preis: ${article.lastPrice}`;
+                articleDiv.appendChild(lastPriceParagraph);
+
+                const averagePriceParagraph = document.createElement('p');
+                const averagePrice = calculateAverage(article.prices);
+                averagePriceParagraph.textContent = `Durchschnittlicher Preis: ${averagePrice}`;
+                articleDiv.appendChild(averagePriceParagraph);
+
+                articleList.appendChild(articleDiv);
+            });
+        }
+
+        function calculateAverage(prices) {
+            if (prices.length === 0) {
+                return 0;
+            }
+
+            const sum = prices.reduce((total, price) => total + price, 0);
+            return (sum / prices.length).toFixed(2);
+        }
+    </script>
 </body>
 </html>
