@@ -1,0 +1,164 @@
+[
+    {
+      "name": "Prinzessinenkrone",
+      "image": "prinzkrone",
+      "lastPrice": 7000.0,
+      "prices": [7000.0, 1000.0, 16000.0, 6000.0],
+      "releaseDate": "31.10.2023",
+      "additionalInfo": "Diese Krone konnte man sich während des Halloween-MiniEvents 2023 mit erspielten Punkten in einer kostenlosen Arena 1x pro Person kaufen."
+    },
+    {
+        "name": "Aufsetzbare Glasblöcke",
+        "image": "aufsetzglas",
+        "lastPrice": 10000.0,
+        "prices": [10000.0, 10000.0, 10000.0, 15000.0],
+        "releaseDate": "31.10.2023",
+        "additionalInfo": "Diese Glasblöcke in 16 Varianten gab es beim Halloween-MiniEvents 2023 mit erspielten Punkten in einer kostenlosen Arena zu kaufen. Sie können mit einem Rechtsklick angezogen werden."
+    },
+    {
+        "name": "Aufsetzbarer Endstab",
+        "image": "aufsetzrod",
+        "lastPrice": 9000.0,
+        "prices": [9000.0, 9000.0, 8500.0],
+        "releaseDate": "31.10.2023",
+        "additionalInfo": "Dieser Endstab gab es beim Halloween-MiniEvents 2023 mit erspielten Punkten in einer kostenlosen Arena zu kaufen. Er kann mit Rechtsklick angezogen werden, man sieht dann aus wie ein Einhorn!"
+    },
+    {
+        "name": "Easy Clashing 2022",
+        "image": "goldsword",
+        "lastPrice": 50000.0,
+        "prices": [70000.0, 50000.0],
+        "releaseDate": "26.05.2022",
+        "additionalInfo": "Dieses Item wurde dem 1. Platzierten der Sureño Festspiele übergeben, der 2. Platz erhielt 20.000€ der 3. 10.000€, nachdem sie 6 Vorrunden und 3 Finallrunden in 'Show-Gangwars' gespielt hatten. 'Einfach umdrehen und clashen!'"
+    },
+    {
+        "name": "Meinungsverstärker",
+        "image": "meinung",
+        "lastPrice": 30000.0,
+        "prices": [30000.0, 27.000, 35000.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Rentier-Geweih",
+        "image": "rengeweih",
+        "lastPrice": 24000.0,
+        "prices": [27000.0, 25000.0, 20000.0, 18000.0, 14600.0, 10000.0, 12000.0, 24000.0],
+        "releaseDate": "24.12.2019",
+        "additionalInfo": "Belohnung vom Weihnachtsevent 2019"
+    },
+    {
+        "name": "Graue Zipfelmütze",
+        "image": "zipfelschwarz",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Weihnachtsmütze",
+        "image": "zipfelrot",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Wichtelmütze",
+        "image": "zipfelgreen",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Heiligenschein",
+        "image": "heilig",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Hexenhut",
+        "image": "hexehut",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Schneekugel",
+        "image": "snowglobe",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Strohhut",
+        "image": "strohhut",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Teufelsoren",
+        "image": "teufel",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Fledermaus",
+        "image": "bat",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Goldenes Ei",
+        "image": "egg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "Cuchillo de tortura",
+        "image": "blood_verz",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": "Tu alma está en este chuchillo >> Katana für Arme"
+    },
+    {
+        "name": "AK-47 Sureno-Edition",
+        "image": "ak_verz",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": "Special-Item vom Tag der offenen Tür 2021"
+    },
+    {
+        "name": "Feliz Navidad",
+        "image": "g22_verz",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": "Weihnachtsgeschenk der Surenos 2021"
+    },
+    {
+        "name": "Max's Penis",
+        "image": "stick",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": "Geeich(el)te Länge: 52,3cm"
+    }
+    
+
+  ]
