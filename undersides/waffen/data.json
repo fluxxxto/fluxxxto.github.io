@@ -1,0 +1,243 @@
+[
+    {
+        "name": "Shorty (Pumpgun)",
+        "image": "shorty",
+        "lastPrice": 19900.0,
+        "prices": [7000.0, 8000.0, 12000.0, 10000.0],
+        "releaseDate": "",
+        "additionalInfo": "Eine Waffe mit nicht sehr hoher reichweite aber dafür mehr Projektilen pro Schuss. 30ML / 30MM"
+    },
+    {
+        "name": "9P9 (P99)",
+        "image": "9p9",
+        "lastPrice": 8410.0,
+        "prices": [3000.0, 2500.0, 2500.0, 3500.0, 3100.0, 4500.0, 3500.0, 2800.0, 4500.0, 4000.0],
+        "releaseDate": "",
+        "additionalInfo": "Eine standartmäßige Waffe, für anfänger. 9ML / 9MM"
+    },
+    {
+        "name": "9P9-S (P99-S)",
+        "image": "9p9-s",
+        "lastPrice": 9425.0,
+        "prices": [3000.0, 3000.0, 3500.0],
+        "releaseDate": "",
+        "additionalInfo": "Eine Waffe mit nicht mäßiger reichweite eine Waffe für anfänger, zu empfehlen ist aber die 9P9. 9ML / 9MM"
+    },
+    {
+        "name": "M5P (MP5)",
+        "image": "m5p",
+        "lastPrice": 16430.0,
+        "prices": [8000.0, 6250.0, 6500.0, 10000.0, 10000.0, 8500.0],
+        "releaseDate": "",
+        "additionalInfo": "Eine etwas schneller schießende Waffe, kostet dafür aber auch ein bisschen mehr. 12ML / 12MM"
+    },
+    {
+        "name": "BK-74 (Ak-47)",
+        "image": "bk-74",
+        "lastPrice": 30600.0,
+        "prices": [20000.0, 13000.0, 15000.0, 15000.0],
+        "releaseDate": "",
+        "additionalInfo": "Diese Waffe ist etwas ungenauer aber dafür macht sie mehr spaß ;). 12ML / 12MM"
+    },
+    {
+        "name": "2G2 (G22)",
+        "image": "2g2",
+        "lastPrice": 40275.0,
+        "prices": [13000.0, 15000.0, 15000.0, 10000.0, 15500.0],
+        "releaseDate": "",
+        "additionalInfo": "Uhhhhh die schießt aber weit und tut bestimmt auch weh. 18ML / 18MM"
+    },
+    {
+        "name": "2G2 Night Vision (G22)",
+        "image": "2g2",
+        "lastPrice": 41850.0,
+        "prices": [17000.0, 14000.0, 12000.0],
+        "releaseDate": "",
+        "additionalInfo": "Uhhhhh die schießt aber weit und tut bestimmt auch weh und das auchnoch Nachts! 18ML / 18MM"
+    },
+    {
+        "name": "Küchenmesser",
+        "image": "kuechenmesser",
+        "lastPrice": 720.0,
+        "prices": [300.0, 300.0, 400.0, 300.0],
+        "releaseDate": "",
+        "additionalInfo": "Das geht durch Fleisch wie durch Butter!"
+    },
+    {
+        "name": "Jagdmesser",
+        "image": "jagdmesser",
+        "lastPrice": 2128.0,
+        "prices": [1000.0, 500.0, 450.0, 1400.0],
+        "releaseDate": "",
+        "additionalInfo": "Zum Jagen reichts."
+    },
+    {
+        "name": "Militärmesser",
+        "image": "milimesser",
+        "lastPrice": 4544.0,
+        "prices": [1750.0, 1750.0, 2000.0, 2000.0, 2600.0],
+        "releaseDate": "",
+        "additionalInfo": "Für das Millitär? Gibt es sowas überhaupt auf GM?"
+    },
+    {
+        "name": "Tierabwehrspray (Pfefferspray)",
+        "image": "abwehrspray",
+        "lastPrice": 120.15,
+        "prices": [46.29],
+        "releaseDate": "",
+        "additionalInfo": "Das brennt!"
+    },
+    {
+        "name": "9ML / 9MM",
+        "image": "wassertank",
+        "lastPrice": 5.33,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "Klein aber fein."
+    },
+    {
+        "name": "12ML / 12MM",
+        "image": "wassertank",
+        "lastPrice": 5.25,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "Wöfür benutzt man das?"
+    },
+    {
+        "name": "18ML / 18MM",
+        "image": "wassertank",
+        "lastPrice": 10.10,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "Poah!"
+    },
+    {
+        "name": "30ML / 30MM",
+        "image": "wassertank",
+        "lastPrice": 17.76,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "Was machen denn Kugeln in der Munition?"
+    },
+    {
+        "name": "Ballastische Schutzweste SK3",
+        "image": "sk3",
+        "lastPrice": 378.0,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "Sicher, SK3, am sichersten."
+    },
+    {
+        "name": "Ballastische Schutzweste SK4",
+        "image": "sk4",
+        "lastPrice": 663.0,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "Sicher, sicherer, SK4."
+    },
+    {
+        "name": "Schutzschild",
+        "image": "shield",
+        "lastPrice": 910.0,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "Das hält ja die Kugeln ab ;o"
+    },
+    {
+        "name": "Ostermesser",
+        "image": "ostermesser",
+        "lastPrice": 0.0,
+        "prices": [180000.0, 486000.0, 555000.0, 490000.0],
+        "releaseDate": "",
+        "additionalInfo": "Der Osterhase hat ja komische dinge in seinem Korb... 9ML / 9MM"
+    },
+    {
+        "name": "9p9 Easter-Edition (P99)",
+        "image": "9p9easter",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "",
+        "additionalInfo": "Wofür braucht der Osterhase das? 9ML / 9MM"
+    },
+    {
+        "name": "G2G Summer-Edition (G22)",
+        "image": "2g2summer",
+        "lastPrice": 0.0,
+        "prices": [200000.0, 325000.0],
+        "releaseDate": "",
+        "additionalInfo": "Der Sommer bringt schöne Geschenke! 18ML / 18MM"
+    },
+    {
+        "name": "Halloween-BK (Ak-47)",
+        "image": "hwak",
+        "lastPrice": 0.0,
+        "prices": [20000.0, 35000.0, 22000.0],
+        "releaseDate": "",
+        "additionalInfo": "BOOOH! 12ML / 12MM"
+    },
+    {
+        "name": "LMAA-MS (LMG)",
+        "image": "lmg",
+        "lastPrice": 0.0,
+        "prices": [35000.0, 64000.0],
+        "releaseDate": "",
+        "additionalInfo": "BRRRRR BRRRRRRRRRR brrrrr!!!!!! ALARM!!!!. 12ML / 12MM"
+    },
+    {
+        "name": "Dreizack",
+        "image": "drei",
+        "lastPrice": 0.0,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "BRRRRR BRRRRRRRRRR brrrrr!!!!!! ALARM!!!!"
+    },
+    {
+        "name": "M5P-Winter (MP5)",
+        "image": "m5pwinter",
+        "lastPrice": 0.0,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "Wenn man schießt spürt man die kälte! 12ML / 12MM"
+    },
+    {
+        "name": "Dreizack Night-Edition",
+        "image": "dreiN",
+        "lastPrice": 0.0,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": "Dunkelheit in der Form eines Dreizacks direkt in DEINEN Händen!"
+    },
+    {
+        "name": "1M6 (M16)",
+        "image": "m16",
+        "lastPrice": 0.0,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "1M6 Army-Edition (M16)",
+        "image": "army",
+        "lastPrice": 0.0,
+        "prices": [0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "A14M (M14A)",
+        "image": "m14",
+        "lastPrice": 0.0,
+        "prices": [2000000.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    },
+    {
+        "name": "2G7 Halloween-Edition (G27)",
+        "image": "g27",
+        "lastPrice": 0.0,
+        "prices": [155000.0],
+        "releaseDate": "",
+        "additionalInfo": ""
+    }
+]
+
