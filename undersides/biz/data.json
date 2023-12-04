@@ -1,0 +1,456 @@
+[
+    {
+      "name": "Apotheke Niebrück",
+      "image": "apothekeniebrueck",
+      "lastPrice": 0.0,
+      "prices": [0.0],
+      "releaseDate": "J & J",
+      "additionalInfo": ""
+    },
+    {
+        "name": "Apotheke Royale-Hotel (Altstadt)",
+        "image": "apothekealtstadt",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "/",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Apotheke Südwestzentrum",
+        "image": "apothekenews",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "/",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Apotheke Tropical Island (Süd)",
+        "image": "apotheketropical",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Lifestyle GMBH",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Apotheke Westend",
+        "image": "apothekewestend",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Sweet GMBH",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Autovermietung - Flughafen GMC INTL",
+        "image": "carmietflugintl",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Autovermietung - Hensburg",
+        "image": "carmiethensburg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Autovermietung - Niebrück",
+        "image": "carmietniebrueck",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bauernhof Gewerbegebiert Ost",
+        "image": "bauergwg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bike-Shop Gewerbegebiet Ost",
+        "image": "bikegwg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Tomatenladen",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bike-Shop Goldschweiger See",
+        "image": "bikeshopsee",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bäckerladen Baumarkt (Harrenheim)",
+        "image": "baeckerbaumarkt",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Autovermietung - Tropical Island",
+        "image": "carmiettropical",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bäckerladen Hauptbahnhof",
+        "image": "baeckerbahnhof",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bäckerladen News Fraktionsbasis",
+        "image": "baeckernews",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bäckerladen Niebrück (Nord)",
+        "image": "baeckerniebrueck",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "187 GmbH",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bäckerladen Niebrück (Süd)",
+        "image": "baeckerniebrueck2",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "SuperChaos",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bäckerladen Royal-Hotel (Altstadt)",
+        "image": "baeckeraltstadt",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bäckerladen Spleef-Arena (Hensburg)",
+        "image": "baeckerspleef",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bäckerladen Tropical Island (Flughafen)",
+        "image": "baeckertropical",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Kuchen GmbH",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Bäckerladen Zentrum",
+        "image": "baeckerzentrum",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Liefer GmbH",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Fahrrad-Shop Harrenheim",
+        "image": "fahrradshopharrenheim",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Fito-Autohaus Gewerbegebiet Ost",
+        "image": "fitogwg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Fito-Autohaus Goldschweig",
+        "image": "fitogoldschweig",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Brot GmbH",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Großbäckerei Großbäckerei SL",
+        "image": "grossbaecker",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Duff AG",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Handyladen Goldschweig",
+        "image": "handygoldschweig",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "CONNECT",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Handyladen Hensburg",
+        "image": "1u1hensburg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Nesselfresh",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Handyladen Zentrum",
+        "image": "handyzentrum",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Tomatenladen",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Haudi-Autohaus Niebrück",
+        "image": "haudiniebrueck",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "ExtensionAG",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Helikopter-Shop Tropical Island (Flughafen)",
+        "image": "helishoptropical",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Metzgerei Niebrück",
+        "image": "metzniebrueck",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Saphire Corp",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Metzgerei Offenbach Ost",
+        "image": "metzbahnhof",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Möbelhaus Herding",
+        "image": "moebelherding",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Möbelhaus Westend-Arena",
+        "image": "moebelarena",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Nesselfresh",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Perscho-Autohaus Offenbach Ost",
+        "image": "autobahnhof",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Supermarkt Flughafen GMC INTL",
+        "image": "marktflugintl",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Supermarkt Hauptbahnhof",
+        "image": "marktbahnhof",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Supermarkt Hensburg",
+        "image": "markthensburg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Supermarkt Krankenhaus Nord",
+        "image": "marktkhnord",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Rehfi AG",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Supermarkt Niebrück",
+        "image": "marktniebrueck",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "RGJ Rohstoffhandel",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Supermarkt Nordstadt",
+        "image": "marktnord",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "ANDNIICK",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Supermarkt Offenbach Süd",
+        "image": "marktoffenbach",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "BabyGM Gmbh & Co. KG",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Supermarkt Tropical Island (Süd)",
+        "image": "markttropical",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Nein GmbH",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle - Flughafen GMC INTL (Offenbach Nord)",
+        "image": "tankeflugintl",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle - Gewerbegebiet Ost",
+        "image": "tankegwg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle - Goldschweig",
+        "image": "tankeverwahr",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle - Niebrück",
+        "image": "tankniebrueck",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Faster GmbH",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle - Tropical Island",
+        "image": "tanktropical",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "J & J",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle - Zentralsynagoge",
+        "image": "tanksynagoge",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle - Zentrum",
+        "image": "tankezentrum",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle Flugplatz GWG-Ost",
+        "image": "tankefluggwg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle Niebrück Süd",
+        "image": "tankniebruecksued",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Phönix",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Tankstelle Schwimmhalle (Hensburg)",
+        "image": "tankehensburg",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Waffenladen Goldschweig",
+        "image": "waffengoldschweig",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Bundesministerium für Umwelt",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Waffenladen Hauptbahnhof",
+        "image": "waffenbahnhof",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      },
+      {
+        "name": "Waffenladen Royal-Hotel (Altstadt)",
+        "image": "waffenaltstadt",
+        "lastPrice": 0.0,
+        "prices": [0.0],
+        "releaseDate": "Staatlich",
+        "additionalInfo": ""
+      }
+      
+
+    
+]
+
+
+
