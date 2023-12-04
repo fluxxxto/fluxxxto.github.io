@@ -3,63 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="eventitems.css">
-    <title>GM-Preise</title>
+    <link rel="stylesheet" href="index.css">
+    <title>GM-PREISE</title>
+
 </head>
 <body>
     <div class="container">
-        <div class="background-image"></div>
-        <div class="article-list" id="articleList"></div>
+
+        <div class="background"></div>
+
+        <div class="content">
+            <div class="logo">
+                <img src="https://see.fontimg.com/api/renderfont4/VGORe/eyJyIjoiZnMiLCJoIjo2NSwidyI6MTAwMCwiZnMiOjY1LCJmZ2MiOiIjMDAwMDAwIiwiYmdjIjoiI0ZGRkZGRiIsInQiOjF9/R00tUHJlaXNl/minecraft-ten.png" alt="Minecraft fonts">
+            </div>
+            <h2>Hier findest die aktuellen Preise von GM. Die Zahlen werden ständig aktualisiert.</h2>
+            <div class="buttons">
+                <a href="undersides/eventitems/eventitems.html">Eventitems</a>
+                <a href="andere.html">Autos</a>
+                <a href="undersides/biz/biz.html">BIZ</a>
+                <a href="undersides/waffen/waffen.html">Waffen</a>
+            </div>
+
+
+
+
+        </div>
+
+
+
+
     </div>
-    <script>
-        // Lade die Daten aus der JSON-Datei
-        fetch('data.json')
-            .then(response => response.json())
-            .then(data => {
-                console.log('Data loaded:', data);
-                displayArticles(data);
-            })
-            .catch(error => console.error('Error loading data:', error));
-
-        function displayArticles(articles) {
-            const articleList = document.getElementById('articleList');
-
-            articles.forEach(article => {
-                const articleDiv = document.createElement('div');
-                articleDiv.classList.add('article');
-
-                const img = document.createElement('img');
-                img.src = `${article.image}.png`;
-                img.alt = 'Icon';
-                img.width = 16;
-                img.height = 16;
-                articleDiv.appendChild(img);
-
-                const nameParagraph = document.createElement('p');
-                nameParagraph.textContent = `Name: ${article.name}`;
-                articleDiv.appendChild(nameParagraph);
-
-                const lastPriceParagraph = document.createElement('p');
-                lastPriceParagraph.textContent = `Letzter Preis: ${article.lastPrice}`;
-                articleDiv.appendChild(lastPriceParagraph);
-
-                const averagePriceParagraph = document.createElement('p');
-                const averagePrice = calculateAverage(article.prices);
-                averagePriceParagraph.textContent = `Durchschnittlicher Preis: ${averagePrice}`;
-                articleDiv.appendChild(averagePriceParagraph);
-
-                articleList.appendChild(articleDiv);
-            });
-        }
-
-        function calculateAverage(prices) {
-            if (prices.length === 0) {
-                return 0;
-            }
-
-            const sum = prices.reduce((total, price) => total + price, 0);
-            return (sum / prices.length).toFixed(2);
-        }
-    </script>
 </body>
 </html>
