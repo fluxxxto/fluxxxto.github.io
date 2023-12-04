@@ -4,7 +4,7 @@ body {
 }
 
 .background-image {
-    background-image: url('background.png'); /* Hier Hintergrundbild anpassen */
+    background-image: url('background.png');
     background-size: cover;
     position: fixed;
     top: 0;
@@ -25,7 +25,7 @@ body {
 .article-list {
     list-style: none;
     padding: 0;
-    position: relative; /* Setze Position auf relative, um Z-Index zu verwenden */
+    position: relative;
     text-align: left;
 }
 
@@ -43,21 +43,21 @@ body {
     padding: 15px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
-    background: #fff; /* Background color for the article panel */
+    background: #fff;
 }
 
 .article img {
     max-height: 100px;
-    width: auto; /* Make sure the image doesn't stretch */
+    width: auto;
     object-fit: cover;
     margin-right: 10px;
 }
 
 .article.with-background {
-    background-size: cover; /* Ensure the background image covers the entire container */
-    background-position: center; /* Center the background image */
-    background-repeat: no-repeat; /* Prevent the background image from repeating */
-    /* Add any additional styling as needed */
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+  
 }
 
 .info-container {
@@ -67,15 +67,15 @@ body {
 }
 
 .article h2 {
-    font-size: 1.5em; /* Increase font size for the article title */
-    color: #fff; /* Set text color to white for better contrast */
+    font-size: 1.5em;
+    color: #fff; 
     margin: 0;
-    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add a subtle text shadow for better visibility */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); 
 }
 
 .article h2 small {
-    font-size: 14px; /* Increase font size for the additional info */
-    color: #ddd; /* Adjust text color for additional info */
+    font-size: 14px; 
+    color: #ddd; 
 }
 
 .additional-info {
@@ -116,14 +116,14 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: relative; /* Hinzugefügtes Styling für relative Positionierung */
+    position: relative;
 }
 
 .search-container {
     position: absolute;
-    top: 20px; /* Anpassen der vertikalen Position innerhalb des Panels */
+    top: 20px; 
     right: 20px;
-    z-index: 2; /* Setze den Z-Index auf eine höhere Zahl als die Artikel, damit die Suche über den Artikeln schwebt */
+    z-index: 2; 
 }
 
 #searchInput {
@@ -137,7 +137,7 @@ body {
 
   
   .logo img {
-    max-height: 50px; /* Ändere die Höhe des Bildes nach Bedarf */
+    max-height: 50px;
   }
   
   .menu-items {
@@ -147,11 +147,11 @@ body {
   .menu-items a {
     color: #fff;
     text-decoration: none;
-    margin-left: 20px; /* Abstand zwischen den Menüpunkten */
+    margin-left: 20px;
     padding: 15px;
   }
   
   .menu-items a:hover {
-    color: #ffcc00; /* Farbe ändern, wenn Maus darüber schwebt */
+    color: #ffcc00; 
   }
 
