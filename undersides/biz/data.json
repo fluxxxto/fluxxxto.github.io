@@ -12,7 +12,7 @@
         "image": "apothekealtstadt",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "/",
+        "releaseDate": "Inkone",
         "additionalInfo": ""
       },
       {
@@ -20,7 +20,7 @@
         "image": "apothekenews",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "/",
+        "releaseDate": "Billig GmbH",
         "additionalInfo": ""
       },
       {
@@ -68,7 +68,7 @@
         "image": "bauergwg",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Liefer GmbH",
         "additionalInfo": ""
       },
       {
@@ -92,7 +92,7 @@
         "image": "baeckerbaumarkt",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Rehfi AG",
         "additionalInfo": ""
       },
       {
@@ -108,7 +108,7 @@
         "image": "baeckerbahnhof",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Silver GmbH",
         "additionalInfo": ""
       },
       {
@@ -116,7 +116,7 @@
         "image": "baeckernews",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "BackWerk GmbH",
         "additionalInfo": ""
       },
       {
@@ -140,7 +140,7 @@
         "image": "baeckeraltstadt",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Olchi GmbH",
         "additionalInfo": ""
       },
       {
@@ -148,7 +148,7 @@
         "image": "baeckerspleef",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "InnovateTech Labs",
         "additionalInfo": ""
       },
       {
@@ -180,7 +180,7 @@
         "image": "fitogwg",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Suppenhuhn24",
         "additionalInfo": ""
       },
       {
@@ -252,7 +252,7 @@
         "image": "metzbahnhof",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Schumacher & Verstappen GmBh",
         "additionalInfo": ""
       },
       {
@@ -260,7 +260,7 @@
         "image": "moebelherding",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Passefresh",
         "additionalInfo": ""
       },
       {
@@ -276,7 +276,7 @@
         "image": "autobahnhof",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Jinxed Motors",
         "additionalInfo": ""
       },
       {
@@ -284,7 +284,7 @@
         "image": "marktflugintl",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Kuchen GmbH",
         "additionalInfo": ""
       },
       {
@@ -292,7 +292,7 @@
         "image": "marktbahnhof",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Basic GmbH",
         "additionalInfo": ""
       },
       {
@@ -300,7 +300,7 @@
         "image": "markthensburg",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Plannika GMBH",
         "additionalInfo": ""
       },
       {
@@ -348,7 +348,7 @@
         "image": "tankeflugintl",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Bundesministerium für Umwelt",
         "additionalInfo": ""
       },
       {
@@ -356,7 +356,7 @@
         "image": "tankegwg",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "L Corp",
         "additionalInfo": ""
       },
       {
@@ -364,7 +364,7 @@
         "image": "tankeverwahr",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "SuperChaos",
         "additionalInfo": ""
       },
       {
@@ -388,7 +388,7 @@
         "image": "tanksynagoge",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Nikolas",
         "additionalInfo": ""
       },
       {
@@ -396,7 +396,7 @@
         "image": "tankezentrum",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "BroMan GmbH",
         "additionalInfo": ""
       },
       {
@@ -436,7 +436,7 @@
         "image": "waffenbahnhof",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Suppenhuhn24",
         "additionalInfo": ""
       },
       {
@@ -444,7 +444,7 @@
         "image": "waffenaltstadt",
         "lastPrice": 0.0,
         "prices": [0.0],
-        "releaseDate": "Staatlich",
+        "releaseDate": "Bundesministerium für Umwelt",
         "additionalInfo": ""
       }
       
