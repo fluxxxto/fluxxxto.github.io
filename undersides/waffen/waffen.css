@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.background-image {
+    background-image: url('background.png'); /* Hier Hintergrundbild anpassen */
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.panel {
+    background-color: rgba(59, 59, 59, 1);
+    padding: 20px;
+    margin: 50px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.article-list {
+    list-style: none;
+    padding: 0;
+    position: relative; /* Setze Position auf relative, um Z-Index zu verwenden */
+    text-align: left;
+}
+
+.article {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    position: relative; /* Setze Position auf relative, um Z-Index zu verwenden */
+    z-index: 1; /* Setze Z-Index auf eine niedrige Zahl, damit die Artikel unter der Suche bleiben */
+}
+
+.article img {
+    margin-right: 10px;
+}
+
+.article h2 {
+    font-size: 1.2em; /* Größe des Namens anpassen */
+    color: rgb(88, 65, 1); /* Andere Farbe für den Namen */
+    margin: -0.5; /* Abstand entfernen */
+}
+
+.article h2 small {
+    font-size: 12px; /* Größe nach Bedarf anpassen */
+    color: #888; /* Graue Farbe nach Bedarf anpassen */
+}
+
+.articleRow {
+    display: flex;
+    justify-content: space-between;
+}
+
+.article {
+    width: 48%; /* Breite der Artikel in Prozent anpassen */
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.additional-info {
+    max-width: 50%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px; /* Benutzerdefinierte Schriftgröße */
+    color: #383838; /* Benutzerdefinierte Textfarbe (hier: Orange) */
+    font-weight: bold; /* Fett gedruckte Schrift */
+    margin-left: 50px;
+}
+
+.last-price {
+    color: #383838; /* Farbe für den letzten Preis */
+    font-size: 11px;
+    font-weight: normal;
+}
+
+.average-price {
+    color: #616161; /* Farbe für den durchschnittlichen Preis */
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.top-panel {
+    background-color: #333333ad;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-panel {
+    background-color: #333333ad;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative; /* Hinzugefügtes Styling für relative Positionierung */
+}
+
+.search-container {
+    position: absolute;
+    top: 20px; /* Anpassen der vertikalen Position innerhalb des Panels */
+    right: 20px;
+    z-index: 2; /* Setze den Z-Index auf eine höhere Zahl als die Artikel, damit die Suche über den Artikeln schwebt */
+}
+
+#searchInput {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+  
+  .logo img {
+    max-height: 50px; /* Ändere die Höhe des Bildes nach Bedarf */
+  }
+  
+  .menu-items {
+    display: inline;
+  }
+  
+  .menu-items a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px; /* Abstand zwischen den Menüpunkten */
+    padding: 15px;
+  }
+  
+  .menu-items a:hover {
+    color: #ffcc00; /* Farbe ändern, wenn Maus darüber schwebt */
+  }
