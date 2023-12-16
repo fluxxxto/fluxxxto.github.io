@@ -1,0 +1,229 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.background-image {
+    background-image: url('background.png'); /* Hier Hintergrundbild anpassen */
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+
+.panel {
+    background-color: rgba(59, 59, 59, 1);
+    padding: 20px;
+    margin: 50px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.article-list {
+    list-style: none;
+    padding: 0;
+    position: relative; /* Setze Position auf relative, um Z-Index zu verwenden */
+    text-align: left;
+}
+
+.articleRow {
+    display: flex;
+    justify-content: space-between;
+}
+
+.article {
+    width: 30%;
+    height: 750px;
+    border: 1px solid #ccc;
+    margin: 15px;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    background: #fff; /* Hintergrundfarbe für den Artikel-Panel */
+    position: relative;
+}
+
+.article img {
+    max-height: 100px;
+    width: auto; /* Make sure the image doesn't stretch */
+    object-fit: cover;
+    margin-right: 10px;
+}
+
+.article.with-background {
+    background-size: cover; /* Ensure the background image covers the entire container */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    /* Add any additional styling as needed */
+    transition: background-image 0.3s ease-in-out;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.article h2 {
+    font-size: 1.5em; /* Increase font size for the article title */
+    color: #fff; /* Set text color to white for better contrast */
+    margin: 0;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); /* Add a subtle text shadow for better visibility */
+}
+
+.article h2 small {
+    font-size: 14px; /* Increase font size for the additional info */
+    color: #ddd; /* Adjust text color for additional info */
+}
+
+.additional-info {
+    max-width: 50%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.last-price {
+    color: #dddddd;
+    font-size: 11px;
+    font-weight: normal;
+}
+
+.average-price {
+    color: #f0f0f0;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.top-panel {
+    background-color: #333333ad;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.top-panel {
+    background-color: #333333ad;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative; /* Hinzugefügtes Styling für relative Positionierung */
+}
+
+.search-container {
+    position: absolute;
+    top: 20px; /* Anpassen der vertikalen Position innerhalb des Panels */
+    right: 20px;
+    z-index: 2; /* Setze den Z-Index auf eine höhere Zahl als die Artikel, damit die Suche über den Artikeln schwebt */
+}
+
+#searchInput {
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 80%;
+}
+
+  
+  .logo img {
+    max-height: 50px; /* Ändere die Höhe des Bildes nach Bedarf */
+  }
+  
+  .menu-items {
+    display: inline;
+  }
+  
+  .menu-items a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px; /* Abstand zwischen den Menüpunkten */
+    padding: 15px;
+  }
+  
+  .menu-items a:hover {
+    color: #ffcc00; /* Farbe ändern, wenn Maus darüber schwebt */
+  }
+
+  #disclaimer-text {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    color: #000000;
+    font-size: 10px;
+    z-index: 9999;
+}
+
+
+/* Pfeile für die Schaltflächen */
+.button-container button.prev,
+.button-container button.next {
+    background-color: transparent; /* Hintergrundfarbe entfernen */
+    border: none; /* Rand entfernen */
+    padding: 0; /* Innenabstand entfernen */
+    font-size: 20px; /* Größe der Pfeile anpassen */
+    color: #fff; /* Farbe der Pfeile auf Weiß setzen */
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.button-container button {
+    cursor: pointer;
+}
+
+.article h2,
+.article h2 small,
+.article p {
+    text-align: center;
+}
+
+.article {
+    position: relative;
+}
+
+.article .article-info {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    padding-right: -5px;
+}
+
+.article .button-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    bottom: 10px; /* Verwende 'bottom' anstelle von 'top' */
+    width: 100%;
+}
+
+
+/* Stelle sicher, dass der rechte Pfeil nicht zu weit rechts positioniert ist */
+.article .button-container button.prev::before {
+    margin-left: 10px;
+}
+
+/* Stelle sicher, dass der linke Pfeil nicht zu weit links positioniert ist */
+.article .button-container button.next::before {
+    margin-right: 10px;
+}

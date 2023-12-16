@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Artikel 1",
+      "image": "perscho",
+      "imageCount": 5,
+      "lastPrice": 0.0,
+      "prices": [0.0],
+      "releaseDate": "J & J",
+      "additionalInfo": ""
+    },
+    {
+      "name": "Artikel 1",
+      "image": "artikel",
+      "imageCount": 5,
+      "lastPrice": 0.0,
+      "prices": [0.0],
+      "releaseDate": "J & J",
+      "additionalInfo": ""
+    }
+   
+
+    
+]
+
+
+
