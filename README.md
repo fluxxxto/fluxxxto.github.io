@@ -20,7 +20,11 @@ Sollten Sie Inhalte unserer Seiten übernehmen wollen, setzen Sie sich bitte mit
 
 ## Datenschutz
 
-Der Autor nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Ich behandle Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.
+Von Seiten des Inhabers dieser Website und des Repositorys werden keine personenbezogenen Daten gesammelt. Alle Interaktionen und Aktivitäten, die auf dieser Website stattfinden, sind anonym und es werden keine persönlichen Daten gespeichert oder verarbeitet.
+
+Bitte beachten Sie jedoch, dass diese Website und das Repository auf GitHub gehostet werden, einer Plattform, die ihre eigenen Datenschutzrichtlinien hat. GitHub kann Daten sammeln und verwenden, wie in ihrer Datenschutzrichtlinie beschrieben. Der Inhaber dieser Website und des Repositorys hat keinen Einfluss auf die Datenerfassungspraktiken von GitHub und ist nicht für deren Datenschutzpraktiken verantwortlich.
+
+Der Inhaber nimmt den Schutz Ihrer persönlichen Daten sehr ernst und behandelt Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften.
 
 Bitte beachten Sie, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.
 
