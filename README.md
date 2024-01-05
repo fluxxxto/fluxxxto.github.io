@@ -1,3 +1,11 @@
+# Rechtliche Hinweise
+
+Nach § 5 Telemediengesetz (TMG) ist ein Impressum für "geschäftsmäßige Online-Dienste" vorgeschrieben. Das TMG stellt darauf ab, ob die Inhalte, Waren oder Leistungen üblicherweise gegen Entgelt angeboten werden.
+
+**Diese Website basiert auf einem virtuellen Geschehen! Alle Angaben und Preise sind rein simuliert und basieren auf UNECHTEM GELD zu 100%. Es erfolgt kein echter kommerzieller Handel oder Verkauf von Produkten oder Dienstleistungen.**
+
+Aus diesem Grund besteht nach geltendem Recht möglicherweise keine Impressumspflicht, da die Nutzung dieser Website rein privat und nicht kommerziell ist. Diese rechtlichen Hinweise dienen der Klarstellung der Urheberrechts- und Datenschutzbestimmungen.
+
 # Urheberrechtshinweis
 
 Dieses Repository und alle darin enthaltenen Inhalte sind das geistige Eigentum des Autors und unterliegen dem Urheberrecht. Das Kopieren, Bearbeiten, Verteilen oder jegliche andere Form der Verwendung dieser Inhalte ohne ausdrückliche schriftliche Erlaubnis des Autors ist strengstens untersagt.
