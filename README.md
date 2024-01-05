@@ -4,7 +4,7 @@ Nach § 5 Telemediengesetz (TMG) ist ein Impressum für "geschäftsmäßige Onli
 
 **Diese Website basiert auf einem virtuellen Geschehen! Alle Angaben und Preise sind rein simuliert und basieren auf UNECHTEM GELD zu 100%. Es erfolgt kein echter kommerzieller Handel oder Verkauf von Produkten oder Dienstleistungen.**
 
-Aus diesem Grund besteht nach geltendem Recht möglicherweise keine Impressumspflicht, da die Nutzung dieser Website rein privat und nicht kommerziell ist. Diese rechtlichen Hinweise dienen der Klarstellung der Urheberrechts- und Datenschutzbestimmungen.
+Aus diesem Grund besteht nach geltendem Recht keine Impressumspflicht, da die Nutzung dieser Website rein privat und nicht kommerziell ist. Diese rechtlichen Hinweise dienen der Klarstellung der Urheberrechts- und Datenschutzbestimmungen.
 
 # Urheberrechtshinweis
 
