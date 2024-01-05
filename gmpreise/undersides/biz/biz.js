@@ -110,6 +110,30 @@ function sortArticlesByAveragePrice(articles) {
     });
 }
 
+function confirmGMAPICode(apicode, checkoutcode) {
+    const gmapiCode = document.getElementById('gmapi-input').value;
+
+    console.log(gmapiCode + checkoutcode);
+
+    $.post('https://api.germanminer.de/v2/bank/list?key=' + apicode , function(data) {
+        // Überprüfe, ob die Anfrage erfolgreich war
+        if (data.success) {
+            // Durchlaufe die Konten im 'data'-Objekt
+            $.each(data.data, function(accountNumber, accountData) {
+                // Überprüfe, ob es sich um ein Privatkonto handelt
+                if (accountData.accountType === 'Privatkonto') {
+                    // Gib die Kontonummer aus
+                    console.log('Kontonummer des Privatkontos:', accountNumber);
+                    // Hier kannst du die Kontonummer weiterverarbeiten oder zurückgeben
+                }
+            });
+        } else {
+            // Die Anfrage war nicht erfolgreich, handle den Fehler hier
+            console.error('Fehler bei der API-Anfrage:', data);
+        }
+    }, 'json');
+
+}
 
 function calculateAverage(prices) {
     if (prices.length === 0) {
