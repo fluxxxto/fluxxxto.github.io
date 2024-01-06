@@ -5,7 +5,7 @@
         "name": "Stein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/stone.png",
-        "price": 1.99,
+        "price": 0.6,
         "additionalInfo": "",
         "position": "Reihe 4, Position 12",
         "outOfStock": false
@@ -17,14 +17,14 @@
         "image": "https://minecraftitemids.com/item/64/granite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ac",
         "name": "Polierter Granit",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/polished_granite.png",
-        "price": 1.99,
+        "price": 0.5,
         "additionalInfo": "",
         "outOfStock": false
     },
@@ -35,7 +35,7 @@
         "image": "https://minecraftitemids.com/item/64/diorite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ae",
@@ -44,7 +44,7 @@
         "image": "https://minecraftitemids.com/item/64/polished_diorite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "af",
@@ -53,7 +53,7 @@
         "image": "https://minecraftitemids.com/item/64/andesite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ag",
@@ -62,14 +62,14 @@
         "image": "https://minecraftitemids.com/item/64/polished_andesite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ah",
         "name": "Grass Block",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/grass_block.png",
-        "price": 1.99,
+        "price": 1.47,
         "additionalInfo": "",
         "outOfStock": false
     },
@@ -78,9 +78,9 @@
         "name": "Dreck",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/dirt.png",
-        "price": 1.99,
+        "price": 0.05,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "aj",
@@ -89,7 +89,7 @@
         "image": "https://minecraftitemids.com/item/64/coarse_dirt.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ak",
@@ -98,7 +98,7 @@
         "image": "https://minecraftitemids.com/item/64/podzol.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "al",
@@ -107,7 +107,7 @@
         "image": "https://minecraftitemids.com/item/64/cobblestone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "am",
@@ -159,9 +159,9 @@
         "name": "Schwarzeichenbretter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/dark_oak_planks.png",
-        "price": 1.99,
+        "price": 0.5,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "as",
@@ -375,9 +375,9 @@
         "name": "Sandstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/sandstone.png",
-        "price": 1.99,
+        "price": 1.8,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "bo",
@@ -405,7 +405,7 @@
         "price": 1.99,
         "discount": true,
         "additionalInfo": "Perfekt um deine Lieblings Musik mit deinen Freunden zu erleben! STRENG LIMITIERT!!!",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "br",
@@ -414,7 +414,7 @@
         "image": "https://minecraftitemids.com/item/64/sticky_piston.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bs",
@@ -423,7 +423,7 @@
         "image": "https://minecraftitemids.com/item/64/cobweb.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bt",
@@ -441,7 +441,7 @@
         "image": "https://minecraftitemids.com/item/64/fern.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bv",
@@ -459,7 +459,7 @@
         "image": "https://minecraftitemids.com/item/64/piston.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bx",
@@ -736,9 +736,9 @@
         "name": "Ton",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/clay.png",
-        "price": 1.99,
+        "price": 1.06,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "db",
@@ -763,9 +763,9 @@
         "name": "Steinziegel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/stone_bricks.png",
-        "price": 1.99,
+        "price": 0.65,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ce",
@@ -937,6 +937,66 @@
         "price": 1.99,
         "additionalInfo": "",
         "outOfStock": true
+    },
+    {
+        "key": "cm",
+        "name": "Beton",
+        "alias": "",
+        "image": "beton",
+        "price": 48.36,
+        "discount": true,
+        "additionalInfo": "BRAND AKTUELL 22% GÜNSTIGER ALS IM BAUMARKT!!! SCHLAG JETZT ZU!",
+        "outOfStock": false
+    },
+    {
+        "key": "cn",
+        "name": "Klinkerstein",
+        "alias": "",
+        "image": "klinker",
+        "price": 45,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "co",
+        "name": "Türkiser Terracota",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/cyan_terracota.png",
+        "price": 2,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "cp",
+        "name": "Roter Beton",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/red_concrete.png",
+        "price": 1,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "cq",
+        "name": "Weißer Beton",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/white_concrete.png",
+        "price": 1.75,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "cr",
+        "name": "Seelaterne",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/sea_lantern.png",
+        "price": 65,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
     }
 ]
 
