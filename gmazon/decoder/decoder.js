@@ -1,7 +1,7 @@
 // Copyright 2024 fluxxxto.github.io \\
 
 
-const jsonDataPath = 'http://fluxxxto.github.io/gmazon/data.json';
+const jsonDataPath = 'https://fluxxxto.github.io/gmazon/data.json';
 var informationFirstPart = '';
 var informationLocation = '';
 var informationPayment = '';
