@@ -8,7 +8,7 @@
         "price": 1.99,
         "additionalInfo": "",
         "position": "Reihe 4, Position 12",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ab",
@@ -17,7 +17,7 @@
         "image": "https://minecraftitemids.com/item/64/granite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ac",
@@ -26,7 +26,7 @@
         "image": "https://minecraftitemids.com/item/64/polished_granite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ad",
@@ -35,7 +35,7 @@
         "image": "https://minecraftitemids.com/item/64/diorite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ae",
@@ -44,7 +44,7 @@
         "image": "https://minecraftitemids.com/item/64/polished_diorite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "af",
@@ -53,7 +53,7 @@
         "image": "https://minecraftitemids.com/item/64/andesite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ag",
@@ -62,7 +62,7 @@
         "image": "https://minecraftitemids.com/item/64/polished_andesite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ah",
@@ -71,7 +71,7 @@
         "image": "https://minecraftitemids.com/item/64/grass_block.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ai",
@@ -80,7 +80,7 @@
         "image": "https://minecraftitemids.com/item/64/dirt.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "aj",
@@ -89,7 +89,7 @@
         "image": "https://minecraftitemids.com/item/64/coarse_dirt.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ak",
@@ -98,7 +98,7 @@
         "image": "https://minecraftitemids.com/item/64/podzol.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "al",
@@ -107,7 +107,7 @@
         "image": "https://minecraftitemids.com/item/64/cobblestone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "am",
@@ -405,7 +405,7 @@
         "price": 1.99,
         "discount": true,
         "additionalInfo": "Perfekt um deine Lieblings Musik mit deinen Freunden zu erleben! STRENG LIMITIERT!!!",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "br",
@@ -414,7 +414,7 @@
         "image": "https://minecraftitemids.com/item/64/sticky_piston.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "bs",
@@ -423,7 +423,7 @@
         "image": "https://minecraftitemids.com/item/64/cobweb.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "bt",
@@ -441,7 +441,7 @@
         "image": "https://minecraftitemids.com/item/64/fern.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "bv",
@@ -459,7 +459,7 @@
         "image": "https://minecraftitemids.com/item/64/piston.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "bx",
