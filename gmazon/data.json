@@ -840,7 +840,7 @@
         "outOfStock": true
     },
     {
-        "key": "cm",
+        "key": "zz",
         "name": "Redstone Lampe",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/redstone_lamp.png",
@@ -939,7 +939,7 @@
         "outOfStock": true
     },
     {
-        "key": "cm",
+        "key": "zy",
         "name": "Beton",
         "alias": "",
         "image": "beton",
