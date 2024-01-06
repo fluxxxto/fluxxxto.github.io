@@ -1,7 +1,7 @@
 // Copyright 2024 fluxxxto.github.io \\
 
 
-const jsonDataPath = 'https://fluxxxto.github.io/gmazon/data.json';
+const jsonDataPath = 'http://localhost/gmazon/data.json';
 var informationFirstPart = '';
 var informationLocation = '';
 var informationPayment = '';
@@ -151,7 +151,7 @@ function splitWord(word) {
             informationPayment = 'Zahlungsmethode: Ingame überweisung';
         } if (secondLetter === '=') {
             informationPayment = 'Zahlungsmethode: Bargeld';
-        } else {
+        } if (secondLetter === '~') {
             informationPayment = 'Zahlungsmethode: GMAPI';
         }
 
