@@ -1,0 +1,84 @@
+<!-- Copyright 2024 fluxxxto.github.io -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Gmazon</title>
+</head>
+<body>
+    <div class="background-image"></div>
+
+    <div class="top-panel">
+        <div class="logo">
+            <a href="https://fluxxxto.github.io/gmazon">
+                <img src="https://i.imgur.com/FEvrrqa.png" alt="gmazon">
+            </a>
+        </div>
+
+        <div class="menu-items">
+            <a href="https://localhost/gmazon/bon/">BON</a>
+            <a href="https://localhost/gmazon/beapart/">MITMACHEN</a>
+            <div id="cart-icon" onclick="toggleCartPopup()">
+                🛒
+                <span id="cart-count">0</span> 
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="slider-container">
+        <div class="slider">
+            <div class="slide">
+                <img src="image2.png" alt="Slide 1">
+            </div>
+            <div class="slide">
+                <img src="image3.png" alt="Slide 2">
+            </div>
+            <div class="slide">
+                <img src="image1.png" alt="Slide 3">
+            </div>
+        </div>
+    </div>
+    
+    <div id="cart-popup" class="cart-popup">
+        <div id="cart-content" class="cart-content">
+
+        </div>
+        <div id="cart-total" class="cart-total">
+
+            Gesamt: <span id="total-amount">0.00 €</span>
+        </div>
+        <div class="checkoutButton">
+            <button onclick="setDeliveryOption('liefern')">Liefern</button>
+
+        </div>
+
+        <div id="coupon-input-container">
+            <label for="couponInput">Coupon-Code:</label>
+            <input type="text" id="couponInput" placeholder="Gib deinen Coupon-Code ein">
+            <button onclick="applyCoupon()">Anwenden</button>
+        </div>
+    </div>
+    
+    
+    <div class="panel">
+        <input type="text" id="searchInput" placeholder="Suche nach Blöcken, Items, Munition...">
+        <ul class="article-list" id="articleList"></ul>
+    </div>
+
+
+    <script src="index.js"></script>
+    <script src="slider.js"></script>
+
+    <div id="disclaimer-text">
+        <p>Alle Inhalte dieser Seite beziehen sich auf das virtuelle Spielgeschehen auf dem Minecraft-Server „GermanMiner.DE“.</p>
+        <p>Diese Seite verfolgt keine kommerziellen Ziele.</p>
+        <p>Weitere Infos / Impressum <a href="https://github.com/fluxxxto/fluxxxto.github.io/blob/main/README.md">hier</a></p>
+        <p>© 2024 fluxxxto.github.io</p>
+    </div>
+</body>
+</html>
