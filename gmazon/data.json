@@ -15,7 +15,7 @@
         "name": "Granit",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/granite.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -33,7 +33,7 @@
         "name": "Diorit",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/diorite.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -42,7 +42,7 @@
         "name": "Polierter Diorite",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/polished_diorite.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -51,7 +51,7 @@
         "name": "Andesit",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/andesite.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -60,7 +60,7 @@
         "name": "Polierter Andesit",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/polished_andesite.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -87,7 +87,7 @@
         "name": "Grober Dreck",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/coarse_dirt.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -96,7 +96,7 @@
         "name": "Podzol",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/podzol.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -105,7 +105,7 @@
         "name": "Bruchstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/cobblestone.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -114,7 +114,7 @@
         "name": "Eichenbretter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/oak_planks.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -123,7 +123,7 @@
         "name": "Fichtenbretter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/spruce_planks.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -132,7 +132,7 @@
         "name": "Birkenbretter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/birch_planks.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -141,7 +141,7 @@
         "name": "Junglebretter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/jungle_planks.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -150,7 +150,7 @@
         "name": "Akazienbretter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/acacia_planks.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -168,7 +168,7 @@
         "name": "Eichensetzling",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/oak_sapling.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -177,7 +177,7 @@
         "name": "Fichtensetzling",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/spruce_sapling.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -186,7 +186,7 @@
         "name": "Buchensetzling",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/birch_sapling.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -195,7 +195,7 @@
         "name": "Junglesetzling",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/jungle_sapling.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -204,7 +204,7 @@
         "name": "Akaziensetzling",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/acacia_sapling.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -213,7 +213,7 @@
         "name": "Schwarzeichensetzling",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/dark_oak_sapling.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -222,7 +222,7 @@
         "name": "Sand",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/sand.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -231,7 +231,7 @@
         "name": "Roter Sand",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/red_sand.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -240,7 +240,7 @@
         "name": "Roter Sand",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/red_sand.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -249,7 +249,7 @@
         "name": "Kies",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/gravel.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -258,7 +258,7 @@
         "name": "Eichenstamm",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/oak_log.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -267,7 +267,7 @@
         "name": "Fichtenstamm",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/spruce_log.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -276,7 +276,7 @@
         "name": "Buchenstamm",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/birch_log.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -285,7 +285,7 @@
         "name": "Junglestamm",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/jungle_log.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -294,7 +294,7 @@
         "name": "Akazienstamm",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/acacia_log.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -303,7 +303,7 @@
         "name": "Schwarzeichenstamm",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/dark_oak_log.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -312,7 +312,7 @@
         "name": "Eichenlaub",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/oak_leaves.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -321,7 +321,7 @@
         "name": "Fichtenlaub",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/spruce_leaves.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -330,7 +330,7 @@
         "name": "Buchenlaub",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/birch_leaves.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -339,7 +339,7 @@
         "name": "Junglelaub",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/jungle_leaves.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -348,7 +348,7 @@
         "name": "Akazienlaub",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/acacia_leaves.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -357,7 +357,7 @@
         "name": "Schwarzeichenlaub",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/dark_oak_leaves.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -366,7 +366,7 @@
         "name": "Glass",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/glass.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -384,7 +384,7 @@
         "name": "Gemeiselter Sandstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/chiseled_sandstone.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -393,7 +393,7 @@
         "name": "Geschnittener Sandstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/cut_sandstone.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -402,8 +402,8 @@
         "name": "Notenblock",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/note_block.png",
-        "price": 1.99,
-        "discount": true,
+        "price": 0.01,
+        "discount": false,
         "additionalInfo": "Perfekt um deine Lieblings Musik mit deinen Freunden zu erleben! STRENG LIMITIERT!!!",
         "outOfStock": true
     },
@@ -412,7 +412,7 @@
         "name": "Klebriger Kolben",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/sticky_piston.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -421,7 +421,7 @@
         "name": "Cobweb",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/cobweb.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -430,7 +430,7 @@
         "name": "Grass",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/grass.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -439,7 +439,7 @@
         "name": "Farn",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/fern.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -448,7 +448,7 @@
         "name": "Toter Busch",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/dead_bush.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -457,7 +457,7 @@
         "name": "Kolben",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/piston.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -466,7 +466,7 @@
         "name": "Weiße Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/white_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -475,7 +475,7 @@
         "name": "Orangene Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/orange_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -484,7 +484,7 @@
         "name": "Magenta Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/magenta_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -493,7 +493,7 @@
         "name": "Hellblaue Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/light_blue_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -502,7 +502,7 @@
         "name": "Gelbe Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/yellow_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -511,7 +511,7 @@
         "name": "Lime Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/lime_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -520,7 +520,7 @@
         "name": "Pinke Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/pink_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -529,7 +529,7 @@
         "name": "Graue Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/gray_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -538,7 +538,7 @@
         "name": "Hellgraue Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/light_gray_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -547,7 +547,7 @@
         "name": "Türkise Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/cyan_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -556,7 +556,7 @@
         "name": "Lila Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/purple_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -565,7 +565,7 @@
         "name": "Blaue Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/blue_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -574,7 +574,7 @@
         "name": "Braune Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/brown_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -583,7 +583,7 @@
         "name": "Grüne Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/green_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -592,7 +592,7 @@
         "name": "Rote Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/red_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -601,7 +601,7 @@
         "name": "Schwarze Wolle",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/black_wool.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -610,7 +610,7 @@
         "name": "Quartzblock",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/quartz_block.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -619,7 +619,7 @@
         "name": "Ziegelstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/bricks.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -628,7 +628,7 @@
         "name": "Bücherregal",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/bookshelf.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -637,7 +637,7 @@
         "name": "Bemoostem Bruchstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/mossy_cobblestone.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -646,7 +646,7 @@
         "name": "Obsidian",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/obsidian.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -655,7 +655,7 @@
         "name": "Fakel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/torch.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -664,7 +664,7 @@
         "name": "Endstab",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/end_rod.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -673,7 +673,7 @@
         "name": "Leiter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/ladder.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -682,7 +682,7 @@
         "name": "Ofen",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/furnace.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -691,7 +691,7 @@
         "name": "Schiene",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/rail.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -700,7 +700,7 @@
         "name": "Redstone Fakel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/redstone_torch.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -709,7 +709,7 @@
         "name": "Schneeblock",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/snow.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -718,7 +718,7 @@
         "name": "Bemoostem Bruchstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/mossy_cobblestone.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -727,7 +727,7 @@
         "name": "Kaktus",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/cactus.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -745,7 +745,7 @@
         "name": "Netherrack",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/netherrack.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -754,7 +754,7 @@
         "name": "Glowstone",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/glowstone.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -763,7 +763,7 @@
         "name": "Steinziegel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/stone_bricks.png",
-        "price": 0.65,
+        "price": 0.6,
         "additionalInfo": "",
         "outOfStock": false
     },
@@ -772,7 +772,7 @@
         "name": "Bemooster Steinziegel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/mossy_stone_bricks.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -781,7 +781,7 @@
         "name": "Rissige Steinziegel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/cracked_stone_bricks.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -790,7 +790,7 @@
         "name": "Gemeiselter Steinziegel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/chiseled_stone_bricks.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -799,7 +799,7 @@
         "name": "Brauner Pilzblock",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/brown_mushroom_block.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -808,7 +808,7 @@
         "name": "Roter Pilzblock",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/red_mushroom_block.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -817,7 +817,7 @@
         "name": "Eisengitter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/iron_bars.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -826,7 +826,7 @@
         "name": "Glasscheibe",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/glass_pane.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -835,7 +835,7 @@
         "name": "Bemoostem Bruchstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/mossy_cobblestone.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -844,7 +844,7 @@
         "name": "Redstone Lampe",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/redstone_lamp.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -862,7 +862,7 @@
         "name": "Beacon",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/beacon.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -871,7 +871,7 @@
         "name": "Amboss",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/anvil.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -880,7 +880,7 @@
         "name": "Kiste",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/trapped_chest.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -889,7 +889,7 @@
         "name": "Bemoostem Bruchstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/trapped_chest.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -898,7 +898,7 @@
         "name": "Trichter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/hopper.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -907,7 +907,7 @@
         "name": "Gemeiselter Quartzblock",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/chiseled_quartz_block.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -916,7 +916,7 @@
         "name": "Quartzsäule",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/quartz_pillar.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -925,7 +925,7 @@
         "name": "Quartzstufen",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/quartz_stairs.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
@@ -934,7 +934,7 @@
         "name": "Dropper",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/dropper.png",
-        "price": 1.99,
+        "price": 0.01,
         "additionalInfo": "",
         "outOfStock": true
     },
