@@ -8,7 +8,7 @@
         "price": 1.99,
         "additionalInfo": "",
         "position": "Reihe 4, Position 12",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ab",
@@ -17,7 +17,7 @@
         "image": "https://minecraftitemids.com/item/64/granite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ac",
@@ -26,7 +26,7 @@
         "image": "https://minecraftitemids.com/item/64/polished_granite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ad",
@@ -35,7 +35,7 @@
         "image": "https://minecraftitemids.com/item/64/diorite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ae",
@@ -44,7 +44,7 @@
         "image": "https://minecraftitemids.com/item/64/polished_diorite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "af",
@@ -53,7 +53,7 @@
         "image": "https://minecraftitemids.com/item/64/andesite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ag",
@@ -62,7 +62,7 @@
         "image": "https://minecraftitemids.com/item/64/polished_andesite.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ah",
@@ -71,7 +71,7 @@
         "image": "https://minecraftitemids.com/item/64/grass_block.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ai",
@@ -80,7 +80,7 @@
         "image": "https://minecraftitemids.com/item/64/dirt.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "aj",
@@ -89,7 +89,7 @@
         "image": "https://minecraftitemids.com/item/64/coarse_dirt.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ak",
@@ -98,7 +98,7 @@
         "image": "https://minecraftitemids.com/item/64/podzol.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "al",
@@ -107,7 +107,7 @@
         "image": "https://minecraftitemids.com/item/64/cobblestone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "am",
@@ -116,7 +116,7 @@
         "image": "https://minecraftitemids.com/item/64/oak_planks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "an",
@@ -125,7 +125,7 @@
         "image": "https://minecraftitemids.com/item/64/spruce_planks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ao",
@@ -143,7 +143,7 @@
         "image": "https://minecraftitemids.com/item/64/jungle_planks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "aq",
@@ -152,7 +152,7 @@
         "image": "https://minecraftitemids.com/item/64/acacia_planks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ar",
@@ -161,7 +161,7 @@
         "image": "https://minecraftitemids.com/item/64/dark_oak_planks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "as",
@@ -170,7 +170,7 @@
         "image": "https://minecraftitemids.com/item/64/oak_sapling.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "at",
@@ -179,7 +179,7 @@
         "image": "https://minecraftitemids.com/item/64/spruce_sapling.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "au",
@@ -188,7 +188,7 @@
         "image": "https://minecraftitemids.com/item/64/birch_sapling.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "av",
@@ -197,7 +197,7 @@
         "image": "https://minecraftitemids.com/item/64/jungle_sapling.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "aw",
@@ -206,7 +206,7 @@
         "image": "https://minecraftitemids.com/item/64/acacia_sapling.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ax",
@@ -215,7 +215,7 @@
         "image": "https://minecraftitemids.com/item/64/dark_oak_sapling.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ay",
@@ -224,7 +224,7 @@
         "image": "https://minecraftitemids.com/item/64/sand.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "az",
@@ -233,7 +233,7 @@
         "image": "https://minecraftitemids.com/item/64/red_sand.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ba",
@@ -242,7 +242,7 @@
         "image": "https://minecraftitemids.com/item/64/red_sand.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bb",
@@ -251,7 +251,7 @@
         "image": "https://minecraftitemids.com/item/64/gravel.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bc",
@@ -260,7 +260,7 @@
         "image": "https://minecraftitemids.com/item/64/oak_log.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bd",
@@ -269,7 +269,7 @@
         "image": "https://minecraftitemids.com/item/64/spruce_log.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "be",
@@ -278,7 +278,7 @@
         "image": "https://minecraftitemids.com/item/64/birch_log.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bd",
@@ -287,7 +287,7 @@
         "image": "https://minecraftitemids.com/item/64/jungle_log.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "be",
@@ -296,7 +296,7 @@
         "image": "https://minecraftitemids.com/item/64/acacia_log.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bf",
@@ -305,7 +305,7 @@
         "image": "https://minecraftitemids.com/item/64/dark_oak_log.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bg",
@@ -314,7 +314,7 @@
         "image": "https://minecraftitemids.com/item/64/oak_leaves.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bh",
@@ -323,7 +323,7 @@
         "image": "https://minecraftitemids.com/item/64/spruce_leaves.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bi",
@@ -332,7 +332,7 @@
         "image": "https://minecraftitemids.com/item/64/birch_leaves.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bj",
@@ -341,7 +341,7 @@
         "image": "https://minecraftitemids.com/item/64/jungle_leaves.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bk",
@@ -350,7 +350,7 @@
         "image": "https://minecraftitemids.com/item/64/acacia_leaves.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bl",
@@ -359,7 +359,7 @@
         "image": "https://minecraftitemids.com/item/64/dark_oak_leaves.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bm",
@@ -368,7 +368,7 @@
         "image": "https://minecraftitemids.com/item/64/glass.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bn",
@@ -377,7 +377,7 @@
         "image": "https://minecraftitemids.com/item/64/sandstone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bo",
@@ -386,7 +386,7 @@
         "image": "https://minecraftitemids.com/item/64/chiseled_sandstone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bp",
@@ -395,7 +395,7 @@
         "image": "https://minecraftitemids.com/item/64/cut_sandstone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bq",
@@ -405,7 +405,7 @@
         "price": 1.99,
         "discount": true,
         "additionalInfo": "Perfekt um deine Lieblings Musik mit deinen Freunden zu erleben! STRENG LIMITIERT!!!",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "br",
@@ -414,7 +414,7 @@
         "image": "https://minecraftitemids.com/item/64/sticky_piston.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bs",
@@ -423,7 +423,7 @@
         "image": "https://minecraftitemids.com/item/64/cobweb.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bt",
@@ -432,7 +432,7 @@
         "image": "https://minecraftitemids.com/item/64/grass.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bu",
@@ -441,7 +441,7 @@
         "image": "https://minecraftitemids.com/item/64/fern.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bv",
@@ -450,7 +450,7 @@
         "image": "https://minecraftitemids.com/item/64/dead_bush.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bw",
@@ -459,7 +459,7 @@
         "image": "https://minecraftitemids.com/item/64/piston.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bx",
@@ -468,7 +468,7 @@
         "image": "https://minecraftitemids.com/item/64/white_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "by",
@@ -477,7 +477,7 @@
         "image": "https://minecraftitemids.com/item/64/orange_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "bz",
@@ -486,7 +486,7 @@
         "image": "https://minecraftitemids.com/item/64/magenta_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ca",
@@ -495,7 +495,7 @@
         "image": "https://minecraftitemids.com/item/64/light_blue_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "cb",
@@ -504,7 +504,7 @@
         "image": "https://minecraftitemids.com/item/64/yellow_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "cd",
@@ -513,7 +513,7 @@
         "image": "https://minecraftitemids.com/item/64/lime_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ce",
@@ -522,7 +522,7 @@
         "image": "https://minecraftitemids.com/item/64/pink_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "cf",
@@ -531,7 +531,7 @@
         "image": "https://minecraftitemids.com/item/64/gray_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "cg",
@@ -549,7 +549,7 @@
         "image": "https://minecraftitemids.com/item/64/cyan_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ci",
@@ -558,7 +558,7 @@
         "image": "https://minecraftitemids.com/item/64/purple_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "cj",
@@ -567,7 +567,7 @@
         "image": "https://minecraftitemids.com/item/64/blue_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "cg",
@@ -576,7 +576,7 @@
         "image": "https://minecraftitemids.com/item/64/brown_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ch",
@@ -585,7 +585,7 @@
         "image": "https://minecraftitemids.com/item/64/green_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "ck",
@@ -594,7 +594,7 @@
         "image": "https://minecraftitemids.com/item/64/red_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": false
+        "outOfStock": true
     },
     {
         "key": "cl",
@@ -603,7 +603,7 @@
         "image": "https://minecraftitemids.com/item/64/black_wool.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cm",
@@ -612,7 +612,7 @@
         "image": "https://minecraftitemids.com/item/64/quartz_block.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cn",
@@ -621,7 +621,7 @@
         "image": "https://minecraftitemids.com/item/64/bricks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "co",
@@ -630,7 +630,7 @@
         "image": "https://minecraftitemids.com/item/64/bookshelf.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cp",
@@ -639,7 +639,7 @@
         "image": "https://minecraftitemids.com/item/64/mossy_cobblestone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cq",
@@ -648,7 +648,7 @@
         "image": "https://minecraftitemids.com/item/64/obsidian.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cr",
@@ -657,7 +657,7 @@
         "image": "https://minecraftitemids.com/item/64/torch.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cs",
@@ -666,7 +666,7 @@
         "image": "https://minecraftitemids.com/item/64/end_rod.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "ct",
@@ -675,7 +675,7 @@
         "image": "https://minecraftitemids.com/item/64/ladder.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cu",
@@ -684,7 +684,7 @@
         "image": "https://minecraftitemids.com/item/64/furnace.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cv",
@@ -693,7 +693,7 @@
         "image": "https://minecraftitemids.com/item/64/rail.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cw",
@@ -702,7 +702,7 @@
         "image": "https://minecraftitemids.com/item/64/redstone_torch.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cx",
@@ -711,7 +711,7 @@
         "image": "https://minecraftitemids.com/item/64/snow.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cy",
@@ -720,7 +720,7 @@
         "image": "https://minecraftitemids.com/item/64/mossy_cobblestone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cz",
@@ -729,7 +729,7 @@
         "image": "https://minecraftitemids.com/item/64/cactus.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "da",
@@ -738,7 +738,7 @@
         "image": "https://minecraftitemids.com/item/64/clay.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "db",
@@ -747,7 +747,7 @@
         "image": "https://minecraftitemids.com/item/64/netherrack.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cc",
@@ -756,7 +756,7 @@
         "image": "https://minecraftitemids.com/item/64/glowstone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cd",
@@ -765,7 +765,7 @@
         "image": "https://minecraftitemids.com/item/64/stone_bricks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "ce",
@@ -774,7 +774,7 @@
         "image": "https://minecraftitemids.com/item/64/mossy_stone_bricks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cf",
@@ -783,7 +783,7 @@
         "image": "https://minecraftitemids.com/item/64/cracked_stone_bricks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cg",
@@ -792,7 +792,7 @@
         "image": "https://minecraftitemids.com/item/64/chiseled_stone_bricks.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "ch",
@@ -801,7 +801,7 @@
         "image": "https://minecraftitemids.com/item/64/brown_mushroom_block.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "ci",
@@ -810,7 +810,7 @@
         "image": "https://minecraftitemids.com/item/64/red_mushroom_block.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cj",
@@ -819,7 +819,7 @@
         "image": "https://minecraftitemids.com/item/64/iron_bars.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "ck",
@@ -828,7 +828,7 @@
         "image": "https://minecraftitemids.com/item/64/glass_pane.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cl",
@@ -837,7 +837,7 @@
         "image": "https://minecraftitemids.com/item/64/mossy_cobblestone.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cm",
@@ -846,7 +846,7 @@
         "image": "https://minecraftitemids.com/item/64/redstone_lamp.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cn",
@@ -855,7 +855,7 @@
         "image": "https://minecraftitemids.com/item/64/command_block.png",
         "price": 100000000.99,
         "additionalInfo": "",
-        "outOfStock": "false"
+        "outOfStock": "true"
     },
     {
         "key": "co",
@@ -864,7 +864,7 @@
         "image": "https://minecraftitemids.com/item/64/beacon.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cp",
@@ -873,7 +873,7 @@
         "image": "https://minecraftitemids.com/item/64/anvil.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cq",
@@ -882,7 +882,7 @@
         "image": "https://minecraftitemids.com/item/64/trapped_chest.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cr",
@@ -891,7 +891,7 @@
         "image": "https://minecraftitemids.com/item/64/trapped_chest.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cs",
@@ -900,7 +900,7 @@
         "image": "https://minecraftitemids.com/item/64/hopper.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "ct",
@@ -909,7 +909,7 @@
         "image": "https://minecraftitemids.com/item/64/chiseled_quartz_block.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cu",
@@ -918,7 +918,7 @@
         "image": "https://minecraftitemids.com/item/64/quartz_pillar.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cv",
@@ -927,7 +927,7 @@
         "image": "https://minecraftitemids.com/item/64/quartz_stairs.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     },
     {
         "key": "cl",
@@ -936,7 +936,7 @@
         "image": "https://minecraftitemids.com/item/64/dropper.png",
         "price": 1.99,
         "additionalInfo": "",
-        "outOfStock": "true"
+        "outOfStock": true
     }
 ]
 
