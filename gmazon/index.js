@@ -265,7 +265,7 @@ function doCheckout(checkoutinfo, paymentMethod) {
 
     switch (paymentMethod) {
         case 'ingame-transfer':
-            checkoutInstruction = 'Überweise das Geld an die Kontonummer DEF08666676, dabei MUSS der oben genannte Checkoutcode in der Beschreibung der Überweisung enthalten sein. Wenn kein Mitarbeiter z.B. "Fluxxxto" online ist, kann sich die Lieferung sehr verspäten.';
+            checkoutInstruction = 'Überweise das Geld an die Kontonummer DEF08666676, dabei MUSS der oben genannte Checkoutcode in der Beschreibung der Überweisung enthalten sein. Wenn kein Mitarbeiter z.B. "Fluxxxto" online ist, kann die Lieferung bis zu 8 Stunden dauern.';
             break;
         case 'ingame-cash':
             checkoutInstruction = 'Melde dich bei einem ingame bei einem Mitarbeiter z.B. "Fluxxxto" und schicke ihm den Checkoutcode, dieser wird sich um dich kümmern.';
