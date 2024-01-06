@@ -750,7 +750,7 @@
         "outOfStock": true
     },
     {
-        "key": "cc",
+        "key": "dc",
         "name": "Glowstone",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/glowstone.png",
@@ -759,7 +759,7 @@
         "outOfStock": true
     },
     {
-        "key": "cd",
+        "key": "dd",
         "name": "Steinziegel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/stone_bricks.png",
@@ -768,7 +768,7 @@
         "outOfStock": false
     },
     {
-        "key": "ce",
+        "key": "de",
         "name": "Bemooster Steinziegel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/mossy_stone_bricks.png",
@@ -777,7 +777,7 @@
         "outOfStock": true
     },
     {
-        "key": "cf",
+        "key": "df",
         "name": "Rissige Steinziegel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/cracked_stone_bricks.png",
@@ -786,7 +786,7 @@
         "outOfStock": true
     },
     {
-        "key": "cg",
+        "key": "dg",
         "name": "Gemeiselter Steinziegel",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/chiseled_stone_bricks.png",
@@ -795,7 +795,7 @@
         "outOfStock": true
     },
     {
-        "key": "ch",
+        "key": "dh",
         "name": "Brauner Pilzblock",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/brown_mushroom_block.png",
@@ -804,7 +804,7 @@
         "outOfStock": true
     },
     {
-        "key": "ci",
+        "key": "di",
         "name": "Roter Pilzblock",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/red_mushroom_block.png",
@@ -813,7 +813,7 @@
         "outOfStock": true
     },
     {
-        "key": "cj",
+        "key": "dj",
         "name": "Eisengitter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/iron_bars.png",
@@ -822,7 +822,7 @@
         "outOfStock": true
     },
     {
-        "key": "ck",
+        "key": "dk",
         "name": "Glasscheibe",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/glass_pane.png",
@@ -831,7 +831,7 @@
         "outOfStock": true
     },
     {
-        "key": "cl",
+        "key": "dl",
         "name": "Bemoostem Bruchstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/mossy_cobblestone.png",
@@ -840,7 +840,7 @@
         "outOfStock": true
     },
     {
-        "key": "zz",
+        "key": "dz",
         "name": "Redstone Lampe",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/redstone_lamp.png",
@@ -849,7 +849,7 @@
         "outOfStock": true
     },
     {
-        "key": "cn",
+        "key": "dn",
         "name": "Kommando Block",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/command_block.png",
@@ -858,7 +858,7 @@
         "outOfStock": "true"
     },
     {
-        "key": "co",
+        "key": "do",
         "name": "Beacon",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/beacon.png",
@@ -867,7 +867,7 @@
         "outOfStock": true
     },
     {
-        "key": "cp",
+        "key": "dp",
         "name": "Amboss",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/anvil.png",
@@ -876,7 +876,7 @@
         "outOfStock": true
     },
     {
-        "key": "cq",
+        "key": "dq",
         "name": "Kiste",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/trapped_chest.png",
@@ -885,7 +885,7 @@
         "outOfStock": true
     },
     {
-        "key": "cr",
+        "key": "dr",
         "name": "Bemoostem Bruchstein",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/trapped_chest.png",
@@ -894,7 +894,7 @@
         "outOfStock": true
     },
     {
-        "key": "cs",
+        "key": "ds",
         "name": "Trichter",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/hopper.png",
@@ -903,7 +903,7 @@
         "outOfStock": true
     },
     {
-        "key": "ct",
+        "key": "dt",
         "name": "Gemeiselter Quartzblock",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/chiseled_quartz_block.png",
@@ -912,7 +912,7 @@
         "outOfStock": true
     },
     {
-        "key": "cu",
+        "key": "du",
         "name": "Quartzsäule",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/quartz_pillar.png",
@@ -921,7 +921,7 @@
         "outOfStock": true
     },
     {
-        "key": "cv",
+        "key": "dv",
         "name": "Quartzstufen",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/quartz_stairs.png",
@@ -930,7 +930,7 @@
         "outOfStock": true
     },
     {
-        "key": "cl",
+        "key": "dw",
         "name": "Dropper",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/dropper.png",
@@ -939,7 +939,7 @@
         "outOfStock": true
     },
     {
-        "key": "zy",
+        "key": "dx",
         "name": "Beton",
         "alias": "",
         "image": "beton",
@@ -949,7 +949,7 @@
         "outOfStock": false
     },
     {
-        "key": "cn",
+        "key": "dy",
         "name": "Klinkerstein",
         "alias": "",
         "image": "klinker",
@@ -959,7 +959,7 @@
         "outOfStock": false
     },
     {
-        "key": "co",
+        "key": "dz",
         "name": "Türkiser Terracota",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/cyan_terracota.png",
@@ -969,7 +969,7 @@
         "outOfStock": false
     },
     {
-        "key": "cp",
+        "key": "ea",
         "name": "Roter Beton",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/red_concrete.png",
@@ -979,7 +979,7 @@
         "outOfStock": false
     },
     {
-        "key": "cq",
+        "key": "eb",
         "name": "Weißer Beton",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/white_concrete.png",
@@ -989,11 +989,71 @@
         "outOfStock": false
     },
     {
-        "key": "cr",
+        "key": "ec",
         "name": "Seelaterne",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/sea_lantern.png",
         "price": 65,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "ed",
+        "name": "Knochenblock",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/bone_block.png",
+        "price": 26,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "ef",
+        "name": "Goldener Apfel",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/golden_apple.png",
+        "price": 50,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "eg",
+        "name": "Enchanteter Goldener Apfel",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/enchanted_golden_apple.png",
+        "price": 799,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "eh",
+        "name": "Dunkler Prismarin",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/dark_prismarine.png",
+        "price": 10.75,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "ei",
+        "name": "Prismarinziegel",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/prismarine_bricks.png",
+        "price": 4.95,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "ej",
+        "name": "Prismarin",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/prismarine.png",
+        "price": 4.95,
         "discount": false,
         "additionalInfo": "",
         "outOfStock": false
