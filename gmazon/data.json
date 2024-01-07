@@ -943,10 +943,10 @@
         "name": "Poren Beton",
         "alias": "",
         "image": "https://fluxxxto.github.io/gmazon/images/beton.png",
-        "price": 48.36,
-        "discount": true,
-        "additionalInfo": "BRAND AKTUELL 22% GÜNSTIGER ALS IM BAUMARKT!!! SCHLAG JETZT ZU!",
-        "outOfStock": false
+        "price": 50,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": true
     },
     {
         "key": "dy",
@@ -983,7 +983,7 @@
         "name": "Weißer Beton",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/white_concrete.png",
-        "price": 1.75,
+        "price": 2.50,
         "discount": false,
         "additionalInfo": "",
         "outOfStock": false
@@ -1054,6 +1054,56 @@
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/prismarine.png",
         "price": 4.95,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "ek",
+        "name": "Weißer Trockenbeton",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/white_concrete_powder.png",
+        "price": 2,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "el",
+        "name": "Schwarzer Trockenbeton",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/black_concrete_powder.png",
+        "price": 3,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "em",
+        "name": "Schwarzer Beton",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/black_concrete.png",
+        "price": 3.5,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "en",
+        "name": "Grauer Trockenbeton",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/gray_concrete_powder.png",
+        "price": 2.5,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "eo",
+        "name": "Grauer Beton",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/gray_concrete.png",
+        "price": 3,
         "discount": false,
         "additionalInfo": "",
         "outOfStock": false
