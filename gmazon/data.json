@@ -916,9 +916,9 @@
         "name": "Quartzsäule",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/quartz_pillar.png",
-        "price": 0.01,
+        "price": 75,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "dv",
