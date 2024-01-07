@@ -366,9 +366,9 @@
         "name": "Glass",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/glass.png",
-        "price": 0.01,
+        "price": 1,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "bn",
@@ -1107,6 +1107,67 @@
         "discount": false,
         "additionalInfo": "",
         "outOfStock": false
+    },
+    {
+        "key": "ep",
+        "name": "Tintensack (Schwarze Farbe)",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/ink_sac.png",
+        "price": 3.5,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "eq",
+        "name": "Gelbe Farbe",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/yellow_dye.png",
+        "price": 0.75,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "er",
+        "name": "Rote Farbe",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/red_dye.png",
+        "price": 0.75,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "es",
+        "name": "Lila Farbe",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/purple_dye.png",
+        "price": 0.99,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "et",
+        "name": "Pinke Farbe",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/magenta_dye.png",
+        "price": 0.99,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
+    },
+    {
+        "key": "et",
+        "name": "Orangene Farbe",
+        "alias": "",
+        "image": "https://minecraftitemids.com/item/64/orange_dye.png",
+        "price": 0.75,
+        "discount": false,
+        "additionalInfo": "",
+        "outOfStock": false
     }
+
 ]
 
