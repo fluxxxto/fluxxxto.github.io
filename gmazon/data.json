@@ -15,9 +15,9 @@
         "name": "Granit",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/granite.png",
-        "price": 0.01,
+        "price": 0.5,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ac",
@@ -33,36 +33,36 @@
         "name": "Diorit",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/diorite.png",
-        "price": 0.01,
+        "price": 0.5,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ae",
         "name": "Polierter Diorite",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/polished_diorite.png",
-        "price": 0.01,
+        "price": 0.5,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "af",
         "name": "Andesit",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/andesite.png",
-        "price": 0.01,
+        "price": 0.5,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ag",
         "name": "Polierter Andesit",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/polished_andesite.png",
-        "price": 0.01,
+        "price": 0.5,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ah",
@@ -664,9 +664,9 @@
         "name": "Endstab",
         "alias": "",
         "image": "https://minecraftitemids.com/item/64/end_rod.png",
-        "price": 0.01,
+        "price": 120,
         "additionalInfo": "",
-        "outOfStock": true
+        "outOfStock": false
     },
     {
         "key": "ct",
@@ -940,9 +940,9 @@
     },
     {
         "key": "dx",
-        "name": "Beton",
+        "name": "Poren Beton",
         "alias": "",
-        "image": "beton",
+        "image": "https://fluxxxto.github.io/gmazon/images/beton",
         "price": 48.36,
         "discount": true,
         "additionalInfo": "BRAND AKTUELL 22% GÜNSTIGER ALS IM BAUMARKT!!! SCHLAG JETZT ZU!",
@@ -952,7 +952,7 @@
         "key": "dy",
         "name": "Klinkerstein",
         "alias": "",
-        "image": "klinker",
+        "image": "https://fluxxxto.github.io/gmazon/images/klinker",
         "price": 45,
         "discount": false,
         "additionalInfo": "",
