@@ -381,7 +381,8 @@ function showDeliveryPopup() {
                 <option value="person">Liefern zu Person</option>
                 <option value="kiste">Liefern zu Kiste/Briefkasten</option>
             </select>
-            <p>KAU IMMER angeben. (bei überweisung von firmenkonto auch name)</p>
+            <p>Ablieferungsort<p>
+            <h6>KAU IMMER angeben. (bei überweisung von firmenkonto auch name)</h6>
             <p id="delivery-info"></p>
             <input type="text" id="delivery-location" placeholder="Kau/Ort">
             <label for="payment-method">Zahlungsmethode:</label>
